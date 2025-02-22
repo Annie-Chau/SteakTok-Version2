@@ -29,9 +29,28 @@
 		543ECF042D6A0107009E73B7 /* SteakTok-Version2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SteakTok-Version2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+<<<<<<< HEAD
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		543ECEEC2D6A0106009E73B7 /* SteakTok-Version2 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+=======
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		543ECF3B2D6A08B9009E73B7 /* Exceptions for "SteakTok-Version2" folder in "SteakTok-Version2" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 543ECEE92D6A0106009E73B7 /* SteakTok-Version2 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		543ECEEC2D6A0106009E73B7 /* SteakTok-Version2 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				543ECF3B2D6A08B9009E73B7 /* Exceptions for "SteakTok-Version2" folder in "SteakTok-Version2" target */,
+			);
+>>>>>>> 9ad2b45 (Initial Commit)
 			path = "SteakTok-Version2";
 			sourceTree = "<group>";
 		};
@@ -398,6 +417,10 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SteakTok-Version2/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+<<<<<<< HEAD
+=======
+				INFOPLIST_FILE = "SteakTok-Version2/Info.plist";
+>>>>>>> 9ad2b45 (Initial Commit)
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -426,6 +449,10 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SteakTok-Version2/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+<<<<<<< HEAD
+=======
+				INFOPLIST_FILE = "SteakTok-Version2/Info.plist";
+>>>>>>> 9ad2b45 (Initial Commit)
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
