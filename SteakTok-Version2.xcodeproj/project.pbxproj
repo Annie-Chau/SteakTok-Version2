@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		543ECEFB2D6A0107009E73B7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 543ECEE22D6A0106009E73B7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 543ECEE92D6A0106009E73B7;
+			remoteInfo = "SteakTok-Version2";
+		};
+		543ECF052D6A0107009E73B7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 543ECEE22D6A0106009E73B7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 543ECEE92D6A0106009E73B7;
+			remoteInfo = "SteakTok-Version2";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		543ECEEA2D6A0106009E73B7 /* SteakTok-Version2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SteakTok-Version2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		543ECEFA2D6A0107009E73B7 /* SteakTok-Version2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SteakTok-Version2Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		543ECF042D6A0107009E73B7 /* SteakTok-Version2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SteakTok-Version2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		543ECEEC2D6A0106009E73B7 /* SteakTok-Version2 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "SteakTok-Version2";
+			sourceTree = "<group>";
+		};
+		543ECEFD2D6A0107009E73B7 /* SteakTok-Version2Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "SteakTok-Version2Tests";
+			sourceTree = "<group>";
+		};
+		543ECF072D6A0107009E73B7 /* SteakTok-Version2UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "SteakTok-Version2UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		543ECEE72D6A0106009E73B7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		543ECEF72D6A0107009E73B7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		543ECF012D6A0107009E73B7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		543ECEE12D6A0106009E73B7 = {
+			isa = PBXGroup;
+			children = (
+				543ECEEC2D6A0106009E73B7 /* SteakTok-Version2 */,
+				543ECEFD2D6A0107009E73B7 /* SteakTok-Version2Tests */,
+				543ECF072D6A0107009E73B7 /* SteakTok-Version2UITests */,
+				543ECEEB2D6A0106009E73B7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		543ECEEB2D6A0106009E73B7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				543ECEEA2D6A0106009E73B7 /* SteakTok-Version2.app */,
+				543ECEFA2D6A0107009E73B7 /* SteakTok-Version2Tests.xctest */,
+				543ECF042D6A0107009E73B7 /* SteakTok-Version2UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		543ECEE92D6A0106009E73B7 /* SteakTok-Version2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 543ECF0E2D6A0107009E73B7 /* Build configuration list for PBXNativeTarget "SteakTok-Version2" */;
+			buildPhases = (
+				543ECEE62D6A0106009E73B7 /* Sources */,
+				543ECEE72D6A0106009E73B7 /* Frameworks */,
+				543ECEE82D6A0106009E73B7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				543ECEEC2D6A0106009E73B7 /* SteakTok-Version2 */,
+			);
+			name = "SteakTok-Version2";
+			packageProductDependencies = (
+			);
+			productName = "SteakTok-Version2";
+			productReference = 543ECEEA2D6A0106009E73B7 /* SteakTok-Version2.app */;
+			productType = "com.apple.product-type.application";
+		};
+		543ECEF92D6A0107009E73B7 /* SteakTok-Version2Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 543ECF112D6A0107009E73B7 /* Build configuration list for PBXNativeTarget "SteakTok-Version2Tests" */;
+			buildPhases = (
+				543ECEF62D6A0107009E73B7 /* Sources */,
+				543ECEF72D6A0107009E73B7 /* Frameworks */,
+				543ECEF82D6A0107009E73B7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				543ECEFC2D6A0107009E73B7 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				543ECEFD2D6A0107009E73B7 /* SteakTok-Version2Tests */,
+			);
+			name = "SteakTok-Version2Tests";
+			packageProductDependencies = (
+			);
+			productName = "SteakTok-Version2Tests";
+			productReference = 543ECEFA2D6A0107009E73B7 /* SteakTok-Version2Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		543ECF032D6A0107009E73B7 /* SteakTok-Version2UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 543ECF142D6A0107009E73B7 /* Build configuration list for PBXNativeTarget "SteakTok-Version2UITests" */;
+			buildPhases = (
+				543ECF002D6A0107009E73B7 /* Sources */,
+				543ECF012D6A0107009E73B7 /* Frameworks */,
+				543ECF022D6A0107009E73B7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				543ECF062D6A0107009E73B7 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				543ECF072D6A0107009E73B7 /* SteakTok-Version2UITests */,
+			);
+			name = "SteakTok-Version2UITests";
+			packageProductDependencies = (
+			);
+			productName = "SteakTok-Version2UITests";
+			productReference = 543ECF042D6A0107009E73B7 /* SteakTok-Version2UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		543ECEE22D6A0106009E73B7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					543ECEE92D6A0106009E73B7 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					543ECEF92D6A0107009E73B7 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 543ECEE92D6A0106009E73B7;
+					};
+					543ECF032D6A0107009E73B7 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 543ECEE92D6A0106009E73B7;
+					};
+				};
+			};
+			buildConfigurationList = 543ECEE52D6A0106009E73B7 /* Build configuration list for PBXProject "SteakTok-Version2" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 543ECEE12D6A0106009E73B7;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 543ECEEB2D6A0106009E73B7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				543ECEE92D6A0106009E73B7 /* SteakTok-Version2 */,
+				543ECEF92D6A0107009E73B7 /* SteakTok-Version2Tests */,
+				543ECF032D6A0107009E73B7 /* SteakTok-Version2UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		543ECEE82D6A0106009E73B7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		543ECEF82D6A0107009E73B7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		543ECF022D6A0107009E73B7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		543ECEE62D6A0106009E73B7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		543ECEF62D6A0107009E73B7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		543ECF002D6A0107009E73B7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		543ECEFC2D6A0107009E73B7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 543ECEE92D6A0106009E73B7 /* SteakTok-Version2 */;
+			targetProxy = 543ECEFB2D6A0107009E73B7 /* PBXContainerItemProxy */;
+		};
+		543ECF062D6A0107009E73B7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 543ECEE92D6A0106009E73B7 /* SteakTok-Version2 */;
+			targetProxy = 543ECF052D6A0107009E73B7 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		543ECF0C2D6A0107009E73B7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		543ECF0D2D6A0107009E73B7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		543ECF0F2D6A0107009E73B7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SteakTok-Version2/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.chau.SteakTok-Version2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		543ECF102D6A0107009E73B7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SteakTok-Version2/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.chau.SteakTok-Version2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		543ECF122D6A0107009E73B7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.chau.SteakTok-Version2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SteakTok-Version2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SteakTok-Version2";
+			};
+			name = Debug;
+		};
+		543ECF132D6A0107009E73B7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.chau.SteakTok-Version2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SteakTok-Version2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SteakTok-Version2";
+			};
+			name = Release;
+		};
+		543ECF152D6A0107009E73B7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.chau.SteakTok-Version2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "SteakTok-Version2";
+			};
+			name = Debug;
+		};
+		543ECF162D6A0107009E73B7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.chau.SteakTok-Version2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "SteakTok-Version2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		543ECEE52D6A0106009E73B7 /* Build configuration list for PBXProject "SteakTok-Version2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				543ECF0C2D6A0107009E73B7 /* Debug */,
+				543ECF0D2D6A0107009E73B7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		543ECF0E2D6A0107009E73B7 /* Build configuration list for PBXNativeTarget "SteakTok-Version2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				543ECF0F2D6A0107009E73B7 /* Debug */,
+				543ECF102D6A0107009E73B7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		543ECF112D6A0107009E73B7 /* Build configuration list for PBXNativeTarget "SteakTok-Version2Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				543ECF122D6A0107009E73B7 /* Debug */,
+				543ECF132D6A0107009E73B7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		543ECF142D6A0107009E73B7 /* Build configuration list for PBXNativeTarget "SteakTok-Version2UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				543ECF152D6A0107009E73B7 /* Debug */,
+				543ECF162D6A0107009E73B7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 543ECEE22D6A0106009E73B7 /* Project object */;
+}
